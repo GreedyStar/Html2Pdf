@@ -23,5 +23,5 @@ src/utils/GenerateUtil.java：Pdf生成类
 2. 模板文件中添加font-family: SimSun;说明。
 3. 字体资源文件可根据需要更改，但要注意在模板文件中添加相应的字体说明。
 <br>
-`注`：IText商用需要购买许可license。
+##### 注：IText商用需要购买许可license。
 
