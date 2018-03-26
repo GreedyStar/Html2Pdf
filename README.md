@@ -1,13 +1,13 @@
 # Html2Pdf
 
-##利用Freemarker和IText生成Pdf文件
+利用Freemarker和IText生成Pdf文件
 
 目录结构：
 
 libs：依赖包<br>
-│─ flying-saucer-xxx：css识别相关<br>
-│─ freemarker-xxx：数据模板引擎<br>
-│─ IText-xxx：生成PDF<br>
+  │─ flying-saucer-xxx：css识别相关<br>
+  │─ freemarker-xxx：数据模板引擎<br>
+  │─ IText-xxx：生成PDF<br>
 <br>
 resources：存放ftl模板文件、字体资源文件和生成的pdf文件
 <br>
