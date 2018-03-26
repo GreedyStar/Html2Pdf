@@ -5,9 +5,9 @@
 目录结构：
 
 libs：依赖包
-  │─ flying-saucer-xxx：css识别相关
-  │─ freemarker-xxx：数据模板引擎
-  │─ IText-xxx：生成PDF
+│─ flying-saucer-xxx：css识别相关
+│─ freemarker-xxx：数据模板引擎
+│─ IText-xxx：生成PDF
   
 resources：存放ftl模板文件、字体资源文件和生成的pdf文件
 
